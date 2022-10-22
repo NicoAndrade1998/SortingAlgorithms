@@ -1,2 +1,6 @@
 ﻿  NicoAndradeA3.cpp
+C:\Users\nicoa\source\repos\SortingAlgorithms\SortingAlgorithms\SortingAlgorithms\NicoAndradeA3.cpp(86,19): warning C4101: 'current': unreferenced local variable
+C:\Users\nicoa\source\repos\SortingAlgorithms\SortingAlgorithms\SortingAlgorithms\NicoAndradeA3.cpp(110,13): warning C4101: 'q': unreferenced local variable
+C:\Users\nicoa\source\repos\SortingAlgorithms\SortingAlgorithms\SortingAlgorithms\NicoAndradeA3.cpp(222,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nicoa\source\repos\SortingAlgorithms\SortingAlgorithms\SortingAlgorithms\NicoAndradeA3.cpp(227,16): warning C4018: '<': signed/unsigned mismatch
   SortingAlgorithms.vcxproj -> C:\Users\nicoa\source\repos\SortingAlgorithms\SortingAlgorithms\Debug\SortingAlgorithms.exe
